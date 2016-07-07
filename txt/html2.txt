@@ -1,0 +1,40 @@
+Omar
+    Computer Science Major, Class of 2018.
+    Interests: Artificial Intelligence, Simulation
+    Favorite Protein: Telomerase 
+Craig 
+    Physiology and Neurobiology & Molecular and Cell Biology Major, Class of 2019
+    Interests: Android Development, Gene Therapy 
+    Favorite Protein: Arp2/3 Complex 
+Sricharan
+    Chemical Engineering, Class of 2019
+    Interests: Self-Assembled Nanomaterials, Running
+    Favorite Protein: Scramblase
+Danielle
+    Biomedical Engineering Major, Class of 2019
+    Interests: Regenerative Medicine, Ultrasound Imaging Techniques, Figure Skating
+    Favorite Protein: COL1A1
+Adrian
+    Molecular and Cell Biology, Class of 2017
+    Interests: Biochemistry, Biophysics
+    Favorite Protein: Mdm12
+ Jishnu
+    Molecular and Cell Biology and Plant Biotechnology
+    Interests: Biochemistry, Molecular Biology, Plants yo
+    Favorite Protein: CYR1
+Brian
+    Molecular and Cell Biology and Sociology, Class of 2017
+    Interests: Public Health, medicine, cell biology
+    Favorite Protein: COL1A
+Sayan
+    Biomedical Engineering Major, Class of 2019
+    Interests: Regenerative Medicine, Genome Editing, Prosthetics
+    Favorite Protein: Cas9 
+Rory
+    Structural Biology and Biophysics, Class of 2017
+    Interests: pina coladas and getting caught in the rain
+    Favorite protein: Luciferase
+Nicole
+    Molecular and Cell Biology, Class of 2019
+    Interests: Gene Therapy, Traveling
+    Favorite Protein: Sonic Hedgehog
